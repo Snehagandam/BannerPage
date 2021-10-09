@@ -1,0 +1,169 @@
+
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#header{
+    line-height: 0.1;
+    text-align: center;
+}
+
+.Main{
+    margin: 0 auto;
+    width:30%;
+    background-color: black;
+    padding:30px;
+}
+ #banner1{
+   display:flex;
+}
+
+#banner1 div{
+    padding:20px; 
+    
+    margin-top: 30px;
+}
+
+#banner1 .banner1box1{
+    background:orange;
+    color:white;
+    padding-right: 50px;
+}
+
+#banner1 .banner1box2{
+    background:rgb(34, 172, 214);
+    color:white;
+}
+
+#banner2{
+    
+   display:ruby;
+   padding: 20px;
+   margin-top:30px;
+}
+
+table{
+    width: 100%;     
+}
+th{
+    text-align: left;
+}
+
+#banner2{
+    
+    background: red;
+    color:white;
+}
+
+#banner3{
+    display:flex;
+    margin:20px 0;
+    margin-top: 30px;
+}
+#banner3 div{
+    padding:0 20px;
+    background:rgb(34, 172, 214);
+    color:white;
+}
+
+#banner4{
+    display:flex;
+    margin:20px 0;
+    
+}
+#banner4{
+    /* padding:20px; */
+    margin-top: 30px;
+}
+
+#banner4 .banner4box1{
+    background:red;
+    color:white;
+    width:50%;
+    padding:20px;
+}
+
+#banner4 .banner4box2{
+    background:rgb(34, 172, 214);
+    color:white;
+    width:50%;
+    padding:20px;
+}
+#banner5{
+    display:flex;
+    margin-top: 30px;
+}
+#banner5 div{
+    padding:20px;
+    
+}
+
+#banner5 .banner5box1{
+    background:rgb(34, 172, 214);
+    color:white;
+    
+}
+#banner5 .banner5box2{
+       background:rgb(34, 172, 214);
+    }
+
+#banner6{
+    display:flex;
+    margin:20px 0;
+    margin-top: 30px;
+}
+#banner6 div{
+    padding:20px;
+}
+#banner6 .banner6box1{
+    background:orange;
+    color:white;
+    width:50%;
+}
+#banner6 .banner6box2{
+    background:orange;
+    width:50%;
+   
+}
+
+#banner7{
+    display:flex;
+    margin-top: 30px;
+}
+#banner7{
+    /* padding:20px; */
+    margin:20px 0;
+    margin-top: 30px;
+}
+
+#banner7 .banner7box1{
+    background-color:rgb(34, 172, 214);
+    color:white;
+    width:50%;
+    padding:20px;
+}
+#banner7 .banner7box2{
+    background:red;
+    color:white;
+    width:50%;
+    padding:20px;
+}
+
+#ban7box2text1{
+    font-size: 15px;
+    font-weight:bolder;
+}
+#ban7box2text2{
+
+    font-size: 15px;
+    font-weight: lighter;
+}
+#ban7box1text1
+{
+    font-size: 30px;
+    font-weight:bolder;
+    text-align: center;
+}
+#icon{
+    text-align: center;
+}
